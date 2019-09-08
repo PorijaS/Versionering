@@ -9,7 +9,7 @@ namespace Ludo
             dice.RollDie(); 
 
             Board b = new Board();
-            b.visBoard();
+            b.visBoard(); // Denne linje der laver jeg et nyt viable via viablen b som hedder b.visBoard() som gøre at programmet kan printe ludobrættet når programmet starter//
             b.visPiece(0);
             Console.ReadKey();
         }
