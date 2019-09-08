@@ -1,0 +1,11 @@
+C:\Users\porij\source\repos\Ludo\Ludo\bin\Debug\netcoreapp2.1\Ludo.deps.json
+C:\Users\porij\source\repos\Ludo\Ludo\bin\Debug\netcoreapp2.1\Ludo.runtimeconfig.json
+C:\Users\porij\source\repos\Ludo\Ludo\bin\Debug\netcoreapp2.1\Ludo.runtimeconfig.dev.json
+C:\Users\porij\source\repos\Ludo\Ludo\bin\Debug\netcoreapp2.1\Ludo.dll
+C:\Users\porij\source\repos\Ludo\Ludo\bin\Debug\netcoreapp2.1\Ludo.pdb
+C:\Users\porij\source\repos\Ludo\Ludo\obj\Debug\netcoreapp2.1\Ludo.csprojAssemblyReference.cache
+C:\Users\porij\source\repos\Ludo\Ludo\obj\Debug\netcoreapp2.1\Ludo.csproj.CoreCompileInputs.cache
+C:\Users\porij\source\repos\Ludo\Ludo\obj\Debug\netcoreapp2.1\Ludo.AssemblyInfoInputs.cache
+C:\Users\porij\source\repos\Ludo\Ludo\obj\Debug\netcoreapp2.1\Ludo.AssemblyInfo.cs
+C:\Users\porij\source\repos\Ludo\Ludo\obj\Debug\netcoreapp2.1\Ludo.dll
+C:\Users\porij\source\repos\Ludo\Ludo\obj\Debug\netcoreapp2.1\Ludo.pdb
